@@ -1,0 +1,2 @@
+# LegalMind-
+ai based app
